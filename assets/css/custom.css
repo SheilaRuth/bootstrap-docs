@@ -1,0 +1,21 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.hero-unit {
+  background-color: transparent;
+  text-align: center;
+}
+
+.hero-unit > h1 {
+  font-weight: 300;
+}
+
+.versions tr, .versions td, .versions th {
+  text-align: center;
+}
+
+.versions .table-actions a {
+  margin-left: 10px;
+}
