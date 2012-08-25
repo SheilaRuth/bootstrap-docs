@@ -45,8 +45,12 @@
           <h1>look no further!</h1>
           <p class="lead">easy access to old <strong>Twitter
           Bootstrap</strong> documentation</p>
-          <p><iframe src="http://ghbtns.com/github-btn.html?user=leemachin&repo=bootstrap-docs&type=watch&count=true&size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="30px"></iframe></p>
+          <p>
+            <iframe src="http://ghbtns.com/github-btn.html?user=leemachin&repo=bootstrap-docs&type=watch&count=true&size=large"
+  allowtransparency="true" frameborder="0" scrolling="0" width="170px" height="30px"></iframe>
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://bootstrap-docs.org" data-via="mrleemachin" data-size="large" data-related="twbootstrap" data-hashtags="bootstrap">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </p>
         </div>
 
         <div class="row-fluid">
