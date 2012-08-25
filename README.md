@@ -18,7 +18,9 @@ from [ghbtns.com](http://ghbtns.com) are used instead, as in
 Why?
 ---
 Because it's nice to have them accessible and readable online, in one
-place.
+place. And it's frustrating when the docs from the previous version 
+disappear the *second* a new version is released. They will live forever
+here.
 
 Anything else?
 --------------
