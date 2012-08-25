@@ -16,7 +16,13 @@ body {
   text-align: center;
 }
 
+.versions tbody tr td:first-child {
+  font-size: 18px;
+  font-weight: 300;
+}
+
 .versions .table-actions a {
+  float: right;
   margin-left: 10px;
 }
 
