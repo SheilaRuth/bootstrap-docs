@@ -19,3 +19,7 @@ body {
 .versions .table-actions a {
   margin-left: 10px;
 }
+
+footer {
+  font-size: 90%;
+}
